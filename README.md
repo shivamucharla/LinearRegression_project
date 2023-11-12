@@ -34,6 +34,6 @@ This project uses linear regression to predict house prices in California. The a
 
 - Python 3.x
 - Install required Python packages:
-- pip install -r requirements.txt
+
 
 
